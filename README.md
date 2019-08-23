@@ -6,5 +6,5 @@
 Minimal Electron, React, Redux, SASS(SCSS) and Webpack boilerplate
 
 ## References
-* base boilerplate: [electron-react-webpack-boilerplate](https://www.npmjs.com/package/electron-react-webpack-boilerplate)  
+**base boilerplate:** [electron-react-webpack-boilerplate](https://www.npmjs.com/package/electron-react-webpack-boilerplate)  
 
